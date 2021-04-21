@@ -1,0 +1,16 @@
+.menu{
+    display: flex;
+    justify-content: space-around;
+    background-color: blueviolet;
+    border-radius: 15px;
+    border-style: solid;
+    border: rgb(168, 163, 218);
+}
+a{
+    text-decoration: none;
+    color: violet;
+    font-size: 50px;
+}
+body{
+    background-color: rgb(153, 245, 245);
+}
