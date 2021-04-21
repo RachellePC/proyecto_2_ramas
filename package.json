@@ -1,0 +1,17 @@
+{
+  "name": "tarea-git",
+  "version": "1.0.0",
+  "description": "tarea html git npm ramas",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tarea",
+    "ramas",
+    "git",
+    "npm"
+  ],
+  "author": "LechugaConSazón",
+  "license": "ISC"
+}
