@@ -1,0 +1,12 @@
+.nosotros{
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    background-color: rgb(247, 199, 8);
+    border-radius: 5px;
+    display: flex;
+}
+body{
+    color: rgb(243, 7, 7);
+    background-color: darkkhaki;
+}
